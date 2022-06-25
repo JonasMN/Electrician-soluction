@@ -1,0 +1,3 @@
+color left rgb(38 212 240 / 95)
+color right rgb(46 34 227 / 95)
+            #d122e3 morado
